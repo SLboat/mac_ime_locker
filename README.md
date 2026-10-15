@@ -9,3 +9,10 @@
 https://github.com/user-attachments/assets/89442eea-99fc-427a-a0b6-1189126555be
 
 <img width="297" height="314" alt="15时19分28秒_261015_MINI" src="https://github.com/user-attachments/assets/263e6ee7-aac6-4ba3-a948-e50cfb4ecbc0" />
+
+## 依赖设置
+
+因为需要从别的输入法唤醒，需要打开全局唤起语音。这是我们喜欢的快捷键，可以参考。
+通过设置全局快捷键，才能从别的输入法里切到这里。这是很关键的一步，依赖这一点。
+
+<img width="1428" height="1140" alt="2026-10-15_15-42-45" src="https://github.com/user-attachments/assets/1447530b-e72f-48bb-9d1b-30758e9539fc" />
