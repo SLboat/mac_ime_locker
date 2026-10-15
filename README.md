@@ -6,5 +6,6 @@
 程序用了沙盒，不访问外网，不需要系统权限，也不用键盘钩子。基本原理就是检测输入法切换事件，如果是豆包输入法，检测是否存在语音框，如果有的话，就等待，没有了语音框之后，切回搜狗输入法。另外一个是强制切回输入法，用来不小心切到了豆包的情况（不过更合理的逻辑可能是切换到下一个输入法）
 
 
+https://github.com/user-attachments/assets/89442eea-99fc-427a-a0b6-1189126555be
 
 <img width="297" height="314" alt="15时19分28秒_261015_MINI" src="https://github.com/user-attachments/assets/263e6ee7-aac6-4ba3-a948-e50cfb4ecbc0" />
