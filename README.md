@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/89442eea-99fc-427a-a0b6-1189126555be
 ## 更新说明
 - v1.1 可以指定自己的输入法，而不是强制搜狗。增加预切换功能（这样就会有个完美的ctrl+space记录）
 <img width="404" height="407" alt="16时51分57秒_261015_MINI" src="https://github.com/user-attachments/assets/029c8e5b-0c66-4fa9-b6f0-ecb356d8cd55" />
+
 https://github.com/user-attachments/assets/e7387a7a-42ad-48ca-b98a-d0b68100156a
 
 - v1.0 基本版
