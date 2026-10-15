@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/89442eea-99fc-427a-a0b6-1189126555be
 <img width="1428" height="1140" alt="2026-10-15_15-42-45" src="https://github.com/user-attachments/assets/1447530b-e72f-48bb-9d1b-30758e9539fc" />
 
 ## 更新说明
+- v1.2 重新关闭沙盒，否则不能真正的切换输入法，只能让指示器变化。另外增加更多的切换等待秒数。
 - v1.1 可以指定自己的输入法，而不是强制搜狗。增加预切换功能（这样就会有个完美的ctrl+space记录）
 <img width="404" height="407" alt="16时51分57秒_261015_MINI" src="https://github.com/user-attachments/assets/029c8e5b-0c66-4fa9-b6f0-ecb356d8cd55" />
 
